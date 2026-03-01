@@ -1,6 +1,8 @@
 # MLflow with Docker Compose (PostgreSQL + S3-Compatible Storage)
 
-NOTE: Extracted from [mlflow repo](https://github.com/mlflow/mlflow/tree/master/docker-compose)
+NOTES:
+- Extracted from [mlflow repo](https://github.com/mlflow/mlflow/tree/master/docker-compose)
+- [MLflow Architecture](https://mlflow.org/docs/latest/self-hosting/architecture/overview/)
 
 This directory provides a **Docker Compose** setup for running **MLflow** locally with a **PostgreSQL** backend store and **RustFS** for S3-compatible artifact storage.
 
